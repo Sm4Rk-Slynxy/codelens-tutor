@@ -1,6 +1,9 @@
 # CodeLens Tutor
 
 Self-hosted visual technical workbench for breaking down **CLI commands**, **code snippets**, **GitHub repositories / local folders**, and **screenshots** into interactive diagrams, structured plain-English explanations, and annotated visual callouts.
+<img width="1094" height="894" alt="Screenshot 2026-11-17 074320" src="https://github.com/user-attachments/assets/33a8259b-36ef-4cae-961c-d4a4dbcd454e" />
+<img width="792" height="885" alt="Screenshot 2026-11-17 082038" src="https://github.com/user-attachments/assets/7d50b8e6-4f60-4203-9e80-66e053c5de17" />
+<img width="779" height="883" alt="Screenshot 2026-11-17 082056" src="https://github.com/user-attachments/assets/c78e3e37-bab9-4773-b70c-d8eca93687b4" />
 
 ## Features
 
