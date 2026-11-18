@@ -1,0 +1,28 @@
+# Secrets & local overrides
+.env
+.env.*
+!.env.example
+
+# Python / Backend
+backend/.venv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node / Frontend
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+*.tsbuildinfo
+
+# Logs & OS artifacts
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini

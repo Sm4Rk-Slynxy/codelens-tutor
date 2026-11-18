@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+    background-color: #090a0c;
+    color: #eceff4;
+  }
+
+  ::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #090a0c;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #232832;
+    border-radius: 3px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #333b4a;
+  }
+}
+
+.bg-dot-grid {
+  background-image: radial-gradient(#1f242d 1px, transparent 1px);
+  background-size: 16px 16px;
+}
+
+.mermaid-container svg {
+  max-width: none;
+  height: auto;
+}
